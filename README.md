@@ -1,7 +1,7 @@
 📄 My Resume Repository
 This repository contains my latest resume, updated periodically as I gain new skills, experience, and projects.
 
-🚀 About
+🚀 About /n
 📌 Current Version: Latest resume in PDF format
 🎯 Purpose: To showcase my skills, experience, and qualifications to potential employers and collaborators
 🔄 Updates: Regularly updated to reflect new achievements
