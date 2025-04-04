@@ -10,12 +10,6 @@ This repository contains my latest resume, updated periodically as I gain new sk
 
 🔄 Updates: Regularly updated to reflect new achievements
 
-📂 Files
-
-resume.pdf – Latest version of my resume
-
-resume_history/ – Archive of previous versions
-
 📜 How to Use
 
 Download the latest resume from this repository.
